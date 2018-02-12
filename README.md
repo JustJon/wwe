@@ -11,6 +11,6 @@ Due to time restraints, I unfortunately was not able to implement Likes, create 
 
 ## HOW TO SET UP 
 
-Install Laravel
-Import wwe.sql file to mysql
+Install Laravel<BR>
+Import wwe.sql file to mysql<BR>
 Configure .env file for mysql settings
